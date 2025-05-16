@@ -30,4 +30,4 @@ This repo contains general-purpose, reusable PowerShell scripts for tasks for ex
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/Ernnestoo/PS-scripts.gitps-toolkit.git
+   git clone https://github.com/Ernnestoo/PS-scripts.git
