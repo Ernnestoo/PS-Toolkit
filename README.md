@@ -1,6 +1,6 @@
 # PowerShell Toolkit
 
-Welcome to my **PowerShell Toolkit**, a collection of handy scripts I use. Whether I’m automating user management, checking system health, or batch-deploying files, these scripts save me time—and I hope they help you too!
+Welcome to my **PowerShell Toolkit**, a collection of handy scripts I use. Whether I’m automating user management, checking system health, or batch-deploying files, these scripts save me time and I hope they help you too!
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my **PowerShell Toolkit**, a collection of handy scripts I use. Wheth
 This repo contains general-purpose, reusable PowerShell scripts for tasks for example like:
 
 - **User & Group Management**  
-  Bulk-create local or AD accounts, manage group membership, reset passwords, etc.
+  Creating local or AD accounts, manage group membership, reset passwords, etc.
 
 - **System & Hardware Inventory**  
   Pull hardware specs, OS versions, installed software lists, boot times, and more.
@@ -21,7 +21,7 @@ This repo contains general-purpose, reusable PowerShell scripts for tasks for ex
   Ping tests, IP config exports, adapter resets, remote session helpers.
 
 - **File & Content Operations**  
-  Mass-copy files, deploy shared resources to user desktops, search logs, etc.
+  Copy files, deploy shared resources to user desktops, search logs, etc.
 
 
 ---
